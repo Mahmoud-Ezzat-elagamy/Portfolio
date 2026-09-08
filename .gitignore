@@ -1,0 +1,6 @@
+# Ignored files
+links.txt
+links.text
+*.log
+.DS_Store
+Thumbs.db
